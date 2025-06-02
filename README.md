@@ -1,6 +1,5 @@
 # flp_2025
 
-<<<<<<< HEAD
 ## ESto es un subtitulo de ejemplo
 
 ## Yair presente 
@@ -12,4 +11,7 @@ xd
 ## Esto es un subtitulo de ejemplo
 
 Esto es otro ejemplo
->>>>>>> 90236fb73076712abe08e7dd28fb462ecf30ed28
+
+# Correr docker
+
+Para correr el docker debemos entrar a la carpeta docker-test y ejecutar 'docker-compose up --build'
